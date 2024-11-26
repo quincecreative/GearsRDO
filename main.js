@@ -232,7 +232,7 @@ const createScene = () => {
 
   target1.onPointerClickObservable.add(() => {
     desBoxText.innerHTML =
-      " <h2>Outer Race</h2><ul><li>Introduction of finished forged geometries and best-in-class metrology concept, designed for manufacturing.</li></ul>";
+      " <h2>Outer Race</h2><ul><li>Introduction of finished forged geometries and best-in-class metrology concept, designed for manufacturing</li></ul>";
     // desBox.style.visibility = "visible";
     // console.log(desBox.style.left);
     image.src = "outerRace.JPG";
@@ -289,7 +289,7 @@ const createScene = () => {
 
   target2.onPointerClickObservable.add(() => {
     desBoxText.innerHTML =
-      " <h2>Inner Race</h2><ul><li>Optimised track design for balanced durability and flexibility.</li></ul>";
+      " <h2>Inner Race</h2><ul><li>Optimised track design for balanced durability and flexibility</li></ul>";
     // desBox.style.visibility = "visible";
     // console.log(desBox.style.left);
     image.src = "innerRace.JPG";
@@ -356,7 +356,7 @@ const createScene = () => {
 
   target3.onPointerClickObservable.add(() => {
     desBoxText.innerHTML =
-      " <h2>Cage</h2><ul><li>Optimised Cage design aligned to efficiency and axial package.</li></ul>";
+      " <h2>Cage</h2><ul><li>Optimised cage design aligned to efficiency and axial package</li></ul>";
     // desBox.style.visibility = "visible";
     // console.log(desBox.style.left);
     image.src = "cage.JPG";
