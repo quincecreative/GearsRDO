@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "RDO model",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "Icon.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "RDO",
+  "short_name": "RDO",
+  "start_url": "/RDO/index.html"
+}
